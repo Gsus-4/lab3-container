@@ -1,0 +1,44 @@
+Tiempo para la ejecución de kmer-13 en c++:
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m3,966s
+user	0m3,931s
+sys	0m0,005s
+
+Tiempo para la ejecución de kmer-14 en c++:
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m15,848s
+user	0m15,725s
+sys	0m0,007s
+
+Tiempo para la ejecución de kmer-8 en python:
+Start
+Number of generated k-mers: 65536
+Finish!
+
+real	0m0,843s
+user	0m0,799s
+sys	0m0,029s
+
+Tiempo para la ejecución de kmer-13 en python:
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	11m29,742s
+user	11m21,630s
+sys	0m0,021s
+
+Tiempo para la ejecución de kmer-14 en python:
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	46m55,609s
+user	46m23,027s
+sys	0m0,032s
